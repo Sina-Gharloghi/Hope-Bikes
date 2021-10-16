@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link href="img/logo.png" rel="icon" type="image/x-icon" />
+    <link rel="stylesheet" href="style/bootstrap.min.css" />
+    <link rel="stylesheet" href="style/Cart.css" />
+
+    <script src="js/bootstrap.min.js"> </script>
+    <script src="js/jquery.js.js"> </script>
+    <script src="js/cart.js"></script>
+</head>
+
+<body class="container-fluid" id="body">
+    <div class="row" style="height: 100px;">
+        <div class="col-sm-4">
+            <a href="index.html" > <img src="img/home.png" id="homelink"/> </a>
+            <a href="cart.html" > <img src="img/cart.png" id="cart"/> </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="index.html"><img src="img/header.png" id="header" /></a>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4" id="recipt">
+            <div class="row" style="margin-top: 10%;">
+                <div class="col-sm-3" id="pro">
+                    <h4>Product</h4>
+                    <hr/>
+                    <br/> <br/>
+                </div>
+                <div class="col-sm-3" id="num">
+                    <h4>Number</h4>
+                    <hr/>
+                    <input type="number" id="qut"/>
+                </div>
+                <div class="col-sm-3" id="unique">
+                    <h4>unit price</h4>
+                    <hr/>
+                </div>
+                <div class="col-sm-3" id="sum">
+                    <h4>total price</h4>
+                    <hr/>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+            <h2>Final Fee : </h2>
+            <input type="submit" value="Pay" id="pay"/>
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+
+</body>
+</html>

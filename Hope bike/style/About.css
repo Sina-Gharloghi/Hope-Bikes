@@ -1,0 +1,37 @@
+#body 
+{
+    background-image: url("../img/bg.png");
+    /*background-color: rgb(187, 226, 231);*/
+    font-family: Inkpen2 Script Std;
+}
+#map
+{
+    height: 600px;
+    width: 580px;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+#ins
+{
+    height: 80px;
+    width: 80PX;
+    margin-left: 320px;
+    margin-top: 20px;
+}
+#tele
+{
+    margin-left: 30px;
+    height: 90px;
+    width: 90PX;
+    margin-top: 20px;
+}
+#homelink
+{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#cart
+{
+    margin-top: 13px;
+    margin-left: 30px;
+}

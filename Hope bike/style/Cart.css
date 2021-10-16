@@ -1,0 +1,76 @@
+#body {
+    background-image: url("../img/bg.png");
+    /*background-color: rgb(187, 226, 231);*/
+    font-family: Inkpen2 Script Std;
+}
+#cart
+{
+    margin-top: 13px;
+    margin-left: 30px;
+}
+#header 
+{
+    margin-left: 30px;
+}
+#homelink
+{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#pro
+{
+    background-color: rgba(83, 83, 83, 0.616);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+#num
+{
+    background-color: rgba(95, 95, 95, 0.376);
+}
+#unique
+{
+    background-color: rgba(83, 83, 83, 0.616);
+}
+#sum
+{
+    background-color:rgba(95, 95, 95, 0.376);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#pay
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgba(73, 141, 1, 0.794);
+    width: 15%;
+    height: 40%;
+    border-radius: 30px;
+    border: 0px;
+    margin-top: 2%;
+    font-size: 150%;
+    margin-left: 42%;
+}
+
+h4
+{
+    margin-left: 20%;
+}
+
+h2
+{
+    margin-top: 5%; 
+    background-color: rgba(83, 83, 83, 0.616); 
+    border-radius: 30px;
+    text-align:center;
+}
+
+#qut
+{
+    border-radius: 20px;
+    border: 0px;
+    height: 35%;
+    background-color: rgba(39, 39, 39, 0.863);
+    text-align: center;
+    color: rgb(187, 226, 231);
+    font-size: 16px;
+}

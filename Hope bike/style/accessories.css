@@ -1,0 +1,32 @@
+#body 
+{
+    background-color: rgb(187, 226, 231);
+    font-family: Inkpen2 Script Std;
+}
+#cart
+{
+    margin-top: 13px;
+    margin-left: 30px;
+}
+#homelink
+{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#list
+{
+    background-color: rgb(85, 181, 194);
+    height: 840px;
+}
+#prd
+{
+    background-color: rgb(47, 103, 110);
+    height: 150px;
+}
+#b
+{
+    height: 100px;  
+    width: 130px;
+    margin-top: 10px;   
+    margin-left: 25px;
+}
